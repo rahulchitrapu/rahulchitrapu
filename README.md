@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahulchitrapu
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...html
+- 🌱 Working as a developer
 - 📫 How to reach me ... rahulchitrapu8@gmail.com
 - 📱 My mobile number is...8374247495
 
