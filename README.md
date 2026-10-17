@@ -41,13 +41,6 @@ I'm a Software Engineer with **4+ years of experience** building responsive web 
 - **Audience Persona 360** — Audience segmentation using user attributes, survey responses, and tags.
 - **Video Calling / Interview Service** — Real-time communication and session-based workflows.
 
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulchitrapu&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchitrapu&layout=compact&theme=tokyonight)
 
 ---
 
